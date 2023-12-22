@@ -4,7 +4,49 @@ text_file_encoding: shift_jis
 image: Yura_german_icon.png
 portrait: Yura_german.png
 portrait_opacity: 0.67
+portrait_height: 0
 author: Gyromancy
 voice: Gyromancy
-version: 1.0
 web: twitter.com/gyromancyx |   gyromancy.wixsite.com
+version: "1.0"
+subbanks:
+- color: ""
+  prefix: ""
+  suffix: _E5
+  tone_ranges:
+  - E5-B7
+- color: ""
+  prefix: ""
+  suffix: _C5
+  tone_ranges:
+  - C5-D#5
+- color: ""
+  prefix: ""
+  suffix: _A4
+  tone_ranges:
+  - A4-B4
+- color: ""
+  prefix: ""
+  suffix: _E4
+  tone_ranges:
+  - E4-G#4
+- color: ""
+  prefix: ""
+  suffix: ""
+  tone_ranges:
+  - C4-D#4
+- color: ""
+  prefix: ""
+  suffix: _A3
+  tone_ranges:
+  - A3-B3
+- color: ""
+  prefix: ""
+  suffix: _F3
+  tone_ranges:
+  - F3-G#3
+- color: ""
+  prefix: ""
+  suffix: _D3
+  tone_ranges:
+  - C1-E3
